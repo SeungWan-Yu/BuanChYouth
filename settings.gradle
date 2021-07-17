@@ -1,0 +1,2 @@
+rootProject.name = "BuanChYouth"
+include ':app'
